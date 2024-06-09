@@ -1,4 +1,4 @@
-# MyBlog
+# [MyBlog](https://andsus.github.io/my-blog-scullyio/){:target="_blank"}
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.12.
 
