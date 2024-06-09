@@ -1,0 +1,11 @@
+identifier: lct71b877636v8cf
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: /home/andre/Documents/train/angular/my-blog
+distFolder: dist/my-blog
+outDir: /home/andre/Documents/train/angular/my-blog/dist/static
+handle404: ''
+allowErrorCollect: false
